@@ -1,1 +1,1 @@
-"this is fileB" --v1
+"this is fileB" --v1  "recent change to B"
