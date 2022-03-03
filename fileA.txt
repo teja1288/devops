@@ -1,1 +1,2 @@
 "this is fileA"  ---v1
+v12
